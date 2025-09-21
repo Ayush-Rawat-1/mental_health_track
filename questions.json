@@ -1,0 +1,196 @@
+{
+  "title": "DSM-5-TR Self-Rated Level 1 Cross-Cutting Symptom Measure-Adult",
+  "instructions": "For each question, select the number that best describes how much (or how often) you have been bothered by each problem during the past TWO (2) WEEKS.",
+  "response_options": {
+    "0": "None / Not at all",
+    "1": "Slight / Rare, less than a day or two",
+    "2": "Mild / Several days",
+    "3": "Moderate / More than half the days",
+    "4": "Severe / Nearly every day"
+  },
+  "domains": [
+    {
+      "domain_id": "I",
+      "domain_name": "Depression",
+      "threshold_for_inquiry": "Mild or greater",
+      "questions": [
+        {
+          "question_id": "1",
+          "text": "Little interest or pleasure in doing things?"
+        },
+        {
+          "question_id": "2",
+          "text": "Feeling down, depressed, or hopeless?"
+        }
+      ]
+    },
+    {
+      "domain_id": "II",
+      "domain_name": "Anger",
+      "threshold_for_inquiry": "Mild or greater",
+      "questions": [
+        {
+          "question_id": "3",
+          "text": "Feeling more irritated, grouchy, or angry than usual?"
+        }
+      ]
+    },
+    {
+      "domain_id": "III",
+      "domain_name": "Mania",
+      "threshold_for_inquiry": "Mild or greater",
+      "questions": [
+        {
+          "question_id": "4",
+          "text": "Sleeping less than usual, but still have a lot of energy?"
+        },
+        {
+          "question_id": "5",
+          "text": "Starting lots more projects than usual or doing more risky things than usual?"
+        }
+      ]
+    },
+    {
+      "domain_id": "IV",
+      "domain_name": "Anxiety",
+      "threshold_for_inquiry": "Mild or greater",
+      "questions": [
+        {
+          "question_id": "6",
+          "text": "Feeling nervous, anxious, frightened, worried, or on edge?"
+        },
+        {
+          "question_id": "7",
+          "text": "Feeling panic or being frightened?"
+        },
+        {
+          "question_id": "8",
+          "text": "Avoiding situations that make you anxious?"
+        }
+      ]
+    },
+    {
+      "domain_id": "V",
+      "domain_name": "Somatic Symptoms",
+      "threshold_for_inquiry": "Mild or greater",
+      "questions": [
+        {
+          "question_id": "9",
+          "text": "Unexplained aches and pains (e.g., head, back, joints, abdomen, legs)?"
+        },
+        {
+          "question_id": "10",
+          "text": "Feeling that your illnesses are not being taken seriously enough?"
+        }
+      ]
+    },
+    {
+      "domain_id": "VI",
+      "domain_name": "Suicidal Ideation",
+      "threshold_for_inquiry": "Slight or greater",
+      "questions": [
+        {
+          "question_id": "11",
+          "text": "Thoughts of actually hurting yourself?"
+        }
+      ]
+    },
+    {
+      "domain_id": "VII",
+      "domain_name": "Psychosis",
+      "threshold_for_inquiry": "Slight or greater",
+      "questions": [
+        {
+          "question_id": "12",
+          "text": "Hearing things other people couldn't hear, such as voices even when no one was around?"
+        },
+        {
+          "question_id": "13",
+          "text": "Feeling that someone could hear your thoughts, or that you could hear what another person was thinking?"
+        }
+      ]
+    },
+    {
+      "domain_id": "VIII",
+      "domain_name": "Sleep Problems",
+      "threshold_for_inquiry": "Mild or greater",
+      "questions": [
+        {
+          "question_id": "14",
+          "text": "Problems with sleep that affected your sleep quality over all?"
+        }
+      ]
+    },
+    {
+      "domain_id": "IX",
+      "domain_name": "Memory",
+      "threshold_for_inquiry": "Mild or greater",
+      "questions": [
+        {
+          "question_id": "15",
+          "text": "Problems with memory (e.g., learning new information) or with location (e.g., finding your way home)?"
+        }
+      ]
+    },
+    {
+      "domain_id": "X",
+      "domain_name": "Repetitive Thoughts and Behaviors",
+      "threshold_for_inquiry": "Mild or greater",
+      "questions": [
+        {
+          "question_id": "16",
+          "text": "Unpleasant thoughts, urges, or images that repeatedly enter your mind?"
+        },
+        {
+          "question_id": "17",
+          "text": "Feeling driven to perform certain behaviors or mental acts over and over again?"
+        }
+      ]
+    },
+    {
+      "domain_id": "XI",
+      "domain_name": "Dissociation",
+      "threshold_for_inquiry": "Mild or greater",
+      "questions": [
+        {
+          "question_id": "18",
+          "text": "Feeling detached or distant from yourself, your body, your physical surroundings, or your memories?"
+        }
+      ]
+    },
+    {
+      "domain_id": "XII",
+      "domain_name": "Personality Functioning",
+      "threshold_for_inquiry": "Mild or greater",
+      "questions": [
+        {
+          "question_id": "19",
+          "text": "Not knowing who you really are or what you want out of life?"
+        },
+        {
+          "question_id": "20",
+          "text": "Not feeling close to other people or enjoying your relationships with them?"
+        }
+      ]
+    },
+    {
+      "domain_id": "XIII",
+      "domain_name": "Substance Use",
+      "threshold_for_inquiry": "Slight or greater",
+      "questions": [
+        {
+          "question_id": "21",
+          "text": "Drinking at least 4 drinks of any kind of alcohol in a single day?"
+        },
+        {
+          "question_id": "22",
+          "text": "Smoking any cigarettes, a cigar, or pipe, or using snuff or chewing tobacco?"
+        },
+        {
+          "question_id": "23",
+          "text": "Using any of the following medicines ON YOUR OWN, that is, without a doctor's prescription, in greater amounts or longer than prescribed [e.g., painkillers (like Vicodin), stimulants (like Ritalin or Adderall), sedatives or tranquilizers (like sleeping pills or Valium), or drugs like marijuana, cocaine or crack, club drugs (like ecstasy), hallucinogens (like LSD), heroin, inhalants or solvents (like glue), or methamphetamine (like speed)]?"
+        }
+      ]
+    }
+  ]
+}
